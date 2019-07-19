@@ -17,6 +17,7 @@ namespace GitLearning.Controllers
 
         public IActionResult Privacy()
         {
+            //TEST 123 for dev branch testing
             return View();
         }
 
